@@ -1,5 +1,5 @@
 # Image-AfterScanner
-Convert photo images to scanned images, and create a pdf documents from those images
+Convert photo images to scanned images, and create a pdf document from those images
 
 This app is written in Python, so I welcome all beginners to make positive pull requests!
 
@@ -9,10 +9,10 @@ This app is written in Python, so I welcome all beginners to make positive pull 
 
 ## Functionalities:
 1. Browse directory 
-2. Sequently convert each image to the scanned version
+2. Convert each image to the scanned version
 3. Scan all images in the folder
 4. Generate a nice pdf documentation from scanned images or original images
-5. No more hassle handling written exams and tests submission at home during quarantine
+5. No more hassle handling written exam and test submissions at home during quarantine!
 
 # Download
 
@@ -20,7 +20,7 @@ This app is written in Python, so I welcome all beginners to make positive pull 
 
 ## Usage
 
-1. Put all images into a folder, name each page in order. For example, page1.jpg, page2.jpg, etc
+1. Put all images (*.jp[e]g, *.png) into a folder, name each page in order. For example, page1.jpg, page2.jpg, etc
 2. Open the app, press `Browse` to nagvigate to the folder from the step 1
 3. Click the `Scan All` and `Generate PDF` buttons in order to generate a complete PDF ready for submission.
 4. Tips: the photo must capture the whole single page with 4 corners on a darker background. Out of focus photos will result in low quality scanned images, so you should pay more attention on taking good input photos. 
