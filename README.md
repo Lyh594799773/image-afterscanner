@@ -28,7 +28,21 @@ This app is written in Python, so I welcome all beginners to make positive pull 
 # Development Environment Setup
 
 1. Install python3 in Windows 10 via Visual Studio 2019 or standalone python distribution
-2. From the project folder, run `py app.py` or `python app.py`
+2. Install third-party libs: numpy, opencv, scikit-image, win10toast
+
+   `pip install numpy`
+
+   `pip install opencv-python`
+
+   `pip install opencv-python`
+   
+   `pip install scikit-image`
+
+   `pip install win10toast`
+
+    Note: if pip is not found, please add use `python -m pip`, or `py -m pip`
+
+3. From the project folder, run `py app.py` or `python app.py`
 
 # Create the standalone .exe application
 1. Install pyinstaller: `pip install pyinstaller`, or: `python -m pip install pyinstaller`
