@@ -48,3 +48,5 @@ This app is written in Python, so I welcome all beginners to make positive pull 
 
 3. Check the `dist` folder to see the `app.exe` application. In the first time launching the app, it will take longer time than usual to unpack the data to the temporary folder.
 
+# License
+MIT
