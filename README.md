@@ -34,8 +34,6 @@ This app is written in Python, so I welcome all beginners to make positive pull 
 
    `pip install opencv-python`
 
-   `pip install opencv-python`
-   
    `pip install scikit-image`
 
    `pip install win10toast`
